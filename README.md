@@ -5,7 +5,7 @@ Eai! Eu sou o Kalebe, Bem-vindo ao meu repositório ✌🏻
 <div align="center">
 <a href="https://github.com/DevKalebe"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevKalebe&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=midnight-purple"/>     
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKalebe&layout=compact&langs_count=7&theme=midnight-purple"/>     
 </div>
 <br>
 <div style="display: inline_block">
